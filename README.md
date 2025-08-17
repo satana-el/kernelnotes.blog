@@ -27,7 +27,7 @@ To set up the Flask Blogging Website, follow these steps:
 3. Create the database:
 
     ```bash
-    flask db-init
+    flask init-db
     ```
 
 4. Run the application:
